@@ -1,0 +1,16 @@
+[
+{
+  "modid": "decryptfiles",
+  "name": "Decrypt Files",
+  "description": "Decrypt Files",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Fr0Le/Decrypt-Files",
+  "updateUrl": "",
+  "authorList": ["Fr0Le"],
+  "credits": "All code contributors",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
