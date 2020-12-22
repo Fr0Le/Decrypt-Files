@@ -11,5 +11,5 @@ public class Info {
 	public static final String key = "hellzGuard123";
 
 	//Конвертер - https://www.dcode.fr/ascii-code
-    //public static String key = new String(new byte[] {104, 101, 108, 108, 122, 71, 117, 97, 114, 100, 49, 50, 51});
+	//public static String key = new String(new byte[] {104, 101, 108, 108, 122, 71, 117, 97, 114, 100, 49, 50, 51});
 }
