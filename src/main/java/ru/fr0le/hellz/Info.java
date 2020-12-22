@@ -8,8 +8,8 @@ public class Info {
 
 	public static final String modDir = "hellzmod";
 	public static final String modelsFormat = "hellz";
-	public static String key = "hellzGuard123";
+	public static final String key = "hellzGuard123";
 
 	//Конвертер - https://www.dcode.fr/ascii-code
-	//public static String key = new String(new byte[] {72, 69, 76, 76, 90, 37, 71, 85, 65, 82, 68});	
+    //public static String key = new String(new byte[] {104, 101, 108, 108, 122, 71, 117, 97, 114, 100, 49, 50, 51});
 }
